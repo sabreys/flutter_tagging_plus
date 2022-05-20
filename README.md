@@ -1,4 +1,4 @@
-# Flutter Tagging Plus
+# Flutter Tagging Plus(Unsound null safety version)
 
 Forked from https://github.com/culjo/flutter_tagging as it seems abandoned.
 

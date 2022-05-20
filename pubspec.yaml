@@ -5,7 +5,7 @@ repository: https://github.com/bradintheusa/flutter_tagging_plus
 
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.11.0 <3.0.0"
 
 dependencies:
   flutter:
